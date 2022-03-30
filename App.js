@@ -26,6 +26,9 @@ export default function App() {
     ]
   }
 
+
+  
+
   // <View
   //     style={{
   //       flex: 1,
